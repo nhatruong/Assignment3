@@ -1,0 +1,7 @@
+QUESTION 1
+Per encapsulation principle, variables size, price, and name should be marked as private variables. Also the setName method should include
+a return type of void, and assign the name parameter to the name variable. 
+
+QUESTION 2
+The time variable should be labeled as private by including the access modifier private in its declaration. Both getTime and setTime methods
+should be public so that they can be called by clock object. In addtion, the getTime method must return a String type.
