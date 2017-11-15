@@ -112,4 +112,4 @@ public class Caculator {
 		
 		return solution;
 	}
-}
+} 
